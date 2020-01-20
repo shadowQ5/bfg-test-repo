@@ -1,0 +1,42 @@
+{
+    "my_settings" : {
+        "proxy_address" : "",
+        "proxy_port" : "",
+        "log_level" : "",
+        "root_folder" : "/TestFolder/",
+        "route_calc_settings" : {
+            "testfactor_0" : 1.050000,
+            "testfactor_1" : 1.050000,
+            "testfactor_2" : 1.500000,
+            "matching_radius" : -1,
+            "min_test" : -1.000000,
+            "detect_off" : false,
+            "close" : -1,
+            "change_cost" : 5000.000000,
+            "sign_cost" : 10000.000000,
+            "light_cost" : 25000.000000
+        },
+        "persistence_settings" : {
+            "db_name" : "testdb",
+            "db_host" : "127.0.0.1",
+            "db_port" : "5432",
+            "db_username" : "***REMOVED***",
+            "db_***REMOVED***" : "***REMOVED***",
+            "storage_location" : "/TestFolder/PersistenceStorage/"
+        },
+        "trails_settings" : { 
+        },
+        "_cache_settings" : {
+            "min_cache_flat_distance" : 10000,
+            "max_cache_flat_distance" : 60000,
+            "percent_from_flat" : 1.000000
+
+        },
+        "imdg_settings" : {
+            "token_endpoint" : "https://server.com//v2/token",
+            "data_endpoint" : "https://server.com/mobile/POC/V1.0/",
+            "token_cred" : "***REMOVED***",
+            "connection_timeout" : 2500
+        }
+    }
+}   
