@@ -20,10 +20,10 @@
             "db_name" : "testdb",
             "db_host" : "127.0.0.1",
             "db_port" : "5432",
-            "db_username" : "***REMOVED***",
-            "db_***REMOVED***" : "***REMOVED***",
+            "db_username" : "postgres",
+            "db_password" : "",
             "storage_location" : "/TestFolder/PersistenceStorage/",
-            "sys_***REMOVED***" : "***REMOVED***"
+            "sys_password" : ""
         },
         "trails_settings" : { 
         },
@@ -36,7 +36,7 @@
         "imdg_settings" : {
             "token_endpoint" : "https://server.com//v2/token",
             "data_endpoint" : "https://server.com/mobile/POC/V1.0/",
-            "token_cred" : "***REMOVED***",
+            "token_cred" : "",
             "connection_timeout" : 2500
         }
     }
