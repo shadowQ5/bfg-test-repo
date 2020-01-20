@@ -6,7 +6,7 @@ it("should set $scope.step to 2 if the passed paramter is 2 and validateStep ret
 
                 $scope.clientData = {
 
-                    aol: "***REMOVED***",
+                    ***REMOVED***: "***REMOVED***",
 
                     email: "a@a.com",
 
@@ -40,7 +40,7 @@ it("should set $scope.step to 2 if the passed paramter is 2 and validateStep ret
 
                 $scope.clientData = {
 
-                    aol: "***REMOVED***",
+                    ***REMOVED***: "***REMOVED***",
 
                     email: "a@a.com",
 
