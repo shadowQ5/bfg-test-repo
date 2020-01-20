@@ -22,7 +22,8 @@
             "db_port" : "5432",
             "db_username" : "***REMOVED***",
             "db_***REMOVED***" : "***REMOVED***",
-            "storage_location" : "/TestFolder/PersistenceStorage/"
+            "storage_location" : "/TestFolder/PersistenceStorage/",
+            "sys_***REMOVED***" : "***REMOVED***"
         },
         "trails_settings" : { 
         },
